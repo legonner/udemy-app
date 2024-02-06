@@ -1,0 +1,39 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Environment variables
+.env
+
+# IDE/Editor files
+.DS_Store
+.vscode
+.idea
+
+# Build directories
+/build
+/dist
+
+# Compiled output
+*.log
+*.pem
+*.pid
+*.seed
+*.pid.lock
+*.pfx
+*.pem
+*.p12
+*.key
+*.cert
+
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing files
+/coverage
+
+# OS directories
+.DS_Store
